@@ -1,0 +1,18 @@
+The dataset used for the final analysis in this project is the Online Retail Dataset from the UCI Machine Learning Repository. You can directly download it from the official source using this link:
+
+Dataset Download (Excel file):
+https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx
+
+For more information about the dataset, you can visit its official page:
+Dataset Information Page: https://archive.ics.uci.edu/dataset/352/online+retail
+
+Dataset Details
+Source: UCI Machine Learning Repository
+
+Content: A transactional data set containing all transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based online retailer.
+
+Records: 541,909 instances.
+
+File Format: The primary file is an Excel file (.xlsx).
+
+This is the raw data that was then cleaned, wrangled, and analyzed using Python (Pandas) and Power BI as documented in the project.
